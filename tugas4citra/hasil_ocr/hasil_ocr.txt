@@ -1,0 +1,188 @@
+GAMBAR 1
+File: 01_HighQuality_Enhanced.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+602544028545044
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 2
+File: 02_LowContrast.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+445
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 3
+File: 03_Blurred.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+91
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 4
+File: 04_HighNoise.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+51012022000056
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 5
+File: 05_LowResolution_Upsampled.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+310
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 6
+File: 06_Faded_Underexposed.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+4581624518
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 7
+File: 07_ColorShift_WarmTint.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+41259998
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 8
+File: 08_JPEGCompression_Artifacts.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+56
+Status: TIDAK COCOK
+
+---------------------------------------------
+
+GAMBAR 9
+File: 09_CombinedDegradation.jpg
+
+Nomor target: 571012022000056
+
+Asli: 571012022000056
+
+Brightness Adjustment:
+571012022000056
+Status: COCOK
+
+Contrast Stretching:
+571012022000056
+Status: COCOK
+
+Histogram Equalization:
+24523568
+Status: TIDAK COCOK
+
+---------------------------------------------
