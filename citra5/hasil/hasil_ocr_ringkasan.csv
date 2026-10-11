@@ -1,0 +1,6 @@
+﻿Metode,Karakter Benar,Total Karakter,Akurasi Rata-rata (%),Akurasi Total (%)
+Gaussian Filter,120,120,100.0,100.0
+Mean Filter,120,120,100.0,100.0
+Median Filter,120,120,100.0,100.0
+Original,120,120,100.0,100.0
+Sharpening,120,120,100.0,100.0

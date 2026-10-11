@@ -1,0 +1,41 @@
+﻿Gambar,Metode,Hasil OCR,Karakter Benar,Akurasi (%)
+02_LowContrast.jpg,Original,571012022000056,15,100.0
+02_LowContrast.jpg,Mean Filter,571012022000056,15,100.0
+02_LowContrast.jpg,Median Filter,571012022000056,15,100.0
+02_LowContrast.jpg,Gaussian Filter,571012022000056,15,100.0
+02_LowContrast.jpg,Sharpening,571012022000056,15,100.0
+03_Blurred.jpg,Original,571012022000056,15,100.0
+03_Blurred.jpg,Mean Filter,571012022000056,15,100.0
+03_Blurred.jpg,Median Filter,571012022000056,15,100.0
+03_Blurred.jpg,Gaussian Filter,571012022000056,15,100.0
+03_Blurred.jpg,Sharpening,571012022000056,15,100.0
+04_HighNoise.jpg,Original,571012022000056,15,100.0
+04_HighNoise.jpg,Mean Filter,571012022000056,15,100.0
+04_HighNoise.jpg,Median Filter,571012022000056,15,100.0
+04_HighNoise.jpg,Gaussian Filter,571012022000056,15,100.0
+04_HighNoise.jpg,Sharpening,571012022000056,15,100.0
+05_LowResolution_Upsampled.jpg,Original,571012022000056,15,100.0
+05_LowResolution_Upsampled.jpg,Mean Filter,571012022000056,15,100.0
+05_LowResolution_Upsampled.jpg,Median Filter,571012022000056,15,100.0
+05_LowResolution_Upsampled.jpg,Gaussian Filter,571012022000056,15,100.0
+05_LowResolution_Upsampled.jpg,Sharpening,571012022000056,15,100.0
+06_Faded_Underexposed.jpg,Original,571012022000056,15,100.0
+06_Faded_Underexposed.jpg,Mean Filter,571012022000056,15,100.0
+06_Faded_Underexposed.jpg,Median Filter,571012022000056,15,100.0
+06_Faded_Underexposed.jpg,Gaussian Filter,571012022000056,15,100.0
+06_Faded_Underexposed.jpg,Sharpening,571012022000056,15,100.0
+07_ColorShift_WarmTint.jpg,Original,571012022000056,15,100.0
+07_ColorShift_WarmTint.jpg,Mean Filter,571012022000056,15,100.0
+07_ColorShift_WarmTint.jpg,Median Filter,571012022000056,15,100.0
+07_ColorShift_WarmTint.jpg,Gaussian Filter,571012022000056,15,100.0
+07_ColorShift_WarmTint.jpg,Sharpening,571012022000056,15,100.0
+08_JPEGCompression_Artifacts.jpg,Original,571012022000056,15,100.0
+08_JPEGCompression_Artifacts.jpg,Mean Filter,571012022000056,15,100.0
+08_JPEGCompression_Artifacts.jpg,Median Filter,571012022000056,15,100.0
+08_JPEGCompression_Artifacts.jpg,Gaussian Filter,571012022000056,15,100.0
+08_JPEGCompression_Artifacts.jpg,Sharpening,571012022000056,15,100.0
+09_CombinedDegradation.jpg,Original,571012022000056,15,100.0
+09_CombinedDegradation.jpg,Mean Filter,571012022000056,15,100.0
+09_CombinedDegradation.jpg,Median Filter,571012022000056,15,100.0
+09_CombinedDegradation.jpg,Gaussian Filter,571012022000056,15,100.0
+09_CombinedDegradation.jpg,Sharpening,571012022000056,15,100.0
